@@ -1,0 +1,22 @@
+html, body {
+  background: url(assets/HEHE.jpeg); 
+  background-size: 100%
+  ;
+  
+  height: 100%;
+  width: 100%;
+}
+p,h1,b,li,ul,h3
+{
+  color: #fff
+  
+  ;
+}
+.grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto;
+  }
+  .grid-item {
+      padding: 20px;
+      text-align: center;
+  }
